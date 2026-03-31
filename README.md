@@ -120,7 +120,7 @@ The project includes the following tables:
 
 ## Project Files
 
-* SQL-RETAIL-SALES-ANALYTICS.pdf
+* SQL-RETAIL-SALES-ANALYSIS.pdf
 
 ## Conclusion
 
